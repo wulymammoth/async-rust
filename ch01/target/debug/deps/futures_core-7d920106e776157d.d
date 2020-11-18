@@ -1,0 +1,11 @@
+/Users/dwu/Desktop/oxidize/async-rust/ch01/target/debug/deps/futures_core-7d920106e776157d.rmeta: /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/lib.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/future.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/stream.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/mod.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/poll.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/__internal/mod.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/__internal/atomic_waker.rs
+
+/Users/dwu/Desktop/oxidize/async-rust/ch01/target/debug/deps/futures_core-7d920106e776157d.d: /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/lib.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/future.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/stream.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/mod.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/poll.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/__internal/mod.rs /Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/__internal/atomic_waker.rs
+
+/Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/lib.rs:
+/Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/future.rs:
+/Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/stream.rs:
+/Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/mod.rs:
+/Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/poll.rs:
+/Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/__internal/mod.rs:
+/Users/dwu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.8/src/task/__internal/atomic_waker.rs:
